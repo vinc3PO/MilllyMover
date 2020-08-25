@@ -14,5 +14,5 @@ Easy way to gather all your files dispatched in root folder and sub.
   * run with ````python -m mover ````
 
 ## Usage & Example
-[!alt text](https://github.com/vinc3PO/MilllyMover/blob/master/screenshot.PNG?raw=true)
+![alt text](https://github.com/vinc3PO/MilllyMover/blob/master/screenshot.PNG?raw=true)
 
