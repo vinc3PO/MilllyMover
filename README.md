@@ -1,5 +1,5 @@
 # Milly's Mover
-Small PyQt program put together copy all files of specified extension in a folder and subfolders to another one. 
+Small PyQt program put together to copy all files of specified extension in a folder and subfolders to another one. 
 
 Designed to not overwrite existing file. 
 
