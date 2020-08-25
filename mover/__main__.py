@@ -8,7 +8,6 @@ import os
 class Mover(QMainWindow):
     def __init__(self, parent=None):
         super(Mover, self).__init__(parent)
-
         ### Central Widget ###
         self.setWindowTitle("Milly's file Mover")
         centralWidget = QWidget(self)
@@ -101,7 +100,7 @@ def main():
     app.setStyle("fusion")
     ex = Mover()
     ex.show()
-    app.exec_()
+    sys.exit(app.exec_())
 
 if __name__=='__main__':
     main()
